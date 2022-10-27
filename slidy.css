@@ -13,6 +13,7 @@ div#slider {
   width: 70%;
   float: left;
   flex: 1;
+  margin-right: 20px;
 }
 div#slider figure img { width: 20%; float: left; }
 div#slider figure { 
