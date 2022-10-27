@@ -107,6 +107,14 @@ ul#topnav li> ul > li{
     text-align:justify;
 }
 
+.flex {
+    display: flex;
+    width:100%;
+    margin-bottom:15px;
+    padding-top:15px;
+    text-align:justify;
+}
+
 .pageitem h1 {
     font-size:250%;
     font-weight:normal;
