@@ -8,7 +8,11 @@
 100% { left: -300%; }
 }
 body { margin: 0; } 
-div#slider { overflow: hidden; }
+div#slider { 
+  overflow: hidden; 
+  width: 70%;
+  float: left;
+}
 div#slider figure img { width: 20%; float: left; }
 div#slider figure { 
   position: relative;
