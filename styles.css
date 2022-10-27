@@ -69,7 +69,7 @@ ul#topnav li> ul > li{
     display:inline;
     padding-right:5px;
 }
-    
+
 #container {
     width:100%;
     margin-top:48px;
@@ -88,15 +88,21 @@ ul#topnav li> ul > li{
     margin:auto;
 }
 
+.section-noline {
+    width:80%;
+    padding:20px 0;
+    margin:auto;
+}
+
 .float-left {
     width: 60%;
     float: left;
 }
 
 .float-right {
-    width: 10%;
+    width: 20%;
     margin-left: auto;
-    margin-right: 0;
+    margin-right: 20%;
 }
 
 .pageitem {
@@ -144,7 +150,7 @@ ul#topnav li> ul > li{
 }
 
 .pageitem .col {
-     padding:0 2% 0 1%;    
+     padding:0 2% 0 1%;
 }
 
 .col {
