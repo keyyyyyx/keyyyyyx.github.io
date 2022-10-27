@@ -22,5 +22,4 @@ div#slider figure {
   text-align: left;
   font-size: 0;
   animation: 20s slideshow infinite; 
-  float: left;
 }
