@@ -88,6 +88,11 @@ ul#topnav li> ul > li{
     margin:auto;
 }
 
+.col-md-4 {
+    width: 30%;
+    float: right;
+}
+
 .pageitem {
     display:table;
     table-layout:fixed;
