@@ -13,7 +13,7 @@ div#slider {
   width: 70%;
   float: left;
 }
-div#slider figure img { width: 20%; float: left; }
+div#slider figure img { width: 100%; float: left; }
 div#slider figure { 
   position: relative;
   width: 500%;
