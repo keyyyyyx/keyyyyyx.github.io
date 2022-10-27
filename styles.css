@@ -96,6 +96,7 @@ ul#topnav li> ul > li{
 .float-right {
     width: 30%;
     float: right;
+    margin-left: 20px;
 }
 
 .pageitem {
