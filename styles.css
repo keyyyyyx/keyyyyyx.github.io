@@ -40,8 +40,8 @@ ul#topnav  {
 ul#topnav li {
     list-style-type: none;
     display: table-cell;
-    text-align:center;
-    vertical-align:middle;
+    text-align: left;
+    vertical-align: middle;
 }
 
 ul#topnav li a {
@@ -102,7 +102,7 @@ ul#topnav li> ul > li{
 .float-right {
     width: 20%;
     margin-left: auto;
-    margin-right: 10%;
+    margin-right: 15%;
 }
 
 .pageitem {
@@ -155,6 +155,16 @@ ul#topnav li> ul > li{
 
 .col {
     display: table-cell;
+}
+
+.about{
+	width: 80%
+}
+
+.projects {
+	width: 80%;
+	margin-top: 25px;
+	padding-top: 10px;
 }
 
 #footer {
