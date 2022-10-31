@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Yueqi's Skills</title>
+	<title>Yueqi's Personal Page</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="Description" lang="en" content="open source html and css template">
 	<meta name="author" content="mlp design">
@@ -29,22 +29,33 @@
 			<ul>
 				<li><a href="https://www.linkedin.com/in/yueqixu/"><i class="fa fa-linkedin-square"></i></a></li>
 				<li><a href="https://github.com/keyyyyyx"><i class="fa fa-github"></i></a></li>
-				<li><a href="mailto:xyq678@uw.edu"><i class="fa fa-envelope"></i></a></li>
 			</ul>
 			</li>
 		</ul>
 	</nav>
 </div>
 
+<div id="container">
 <div class="section">
-	<div class="pageitem">
-		<div class="col">
+	<div class="flex">
+		<div id="slider" style = "width: 70%">
+			<figure>
+				<img src="hotpot.jpg" alt>
+				<img src="dimsum.jpeg" alt>
+				<img src="bento.jpeg" alt>
+				<img src="hotpot.jpg" alt>
+			</figure>
 		</div>
-
-		<div class="col">
+		<div class="float-right">
+			<div style="font-size: 32px;"><b>Yueqi Xu</b></div><br>
+			<p><b>xyq678@uw.edu</b><br>
+			<p>Biostatistics Master's Student<br>
+			<p> University of Washington <br>
+			</p>
 		</div>
 	</div>
 </div>
+
 
 <!-- footer items go here
 <div class="section">
