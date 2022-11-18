@@ -70,6 +70,16 @@ ul#topnav li> ul > li{
     padding-right:5px;
 }
 
+h3 {
+	font-size: 1.4rem;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+ul {
+	margin-top: 0;
+}
+
 #container {
     width:100%;
     margin-top:48px;
@@ -162,7 +172,6 @@ ul#topnav li> ul > li{
 }
 
 .projects {
-	width: 80%;
 	margin-top: 25px;
 	padding-top: 10px;
 	font-size: 12pt;
