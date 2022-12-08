@@ -133,6 +133,12 @@ ul {
     text-align:justify;
 }
 
+@media (max-width: 768px) {
+    #sidebar {
+        display: none;
+    }
+}
+
 .pageitem h1 {
     font-size:250%;
     font-weight:normal;
