@@ -144,13 +144,13 @@ ul {
 				width: 0;
     }
 		.section {
-		    width:100%;
+		    width:90%;
 		    border-top:1px solid #777;
 		    padding:0 0;
 		    margin:auto;
 		}
 		.section-noline {
-		    width:100%;
+		    width:90%;
 		    padding:0 0;
 		    margin:auto;
 		}
