@@ -133,10 +133,27 @@ ul {
     text-align:justify;
 }
 
+#sidebar {
+	text-align: left;
+	width: 30%;
+}
+
 @media (max-width: 768px) {
     #sidebar {
         display: none;
+				width: 0;
     }
+		.section {
+		    width:100%;
+		    border-top:1px solid #777;
+		    padding:0 0;
+		    margin:auto;
+		}
+		.section-noline {
+		    width:100%;
+		    padding:0 0;
+		    margin:auto;
+		}
 }
 
 .pageitem h1 {
@@ -174,7 +191,7 @@ ul {
 }
 
 .about{
-	width: 80%;
+	width: 90%;
 	margin-left: 50px;
 	text-align: left;
 }
