@@ -138,7 +138,7 @@ ul {
 	width: 30%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     #sidebar {
         display: none;
 				width: 0;
@@ -153,6 +153,17 @@ ul {
 		    width:90%;
 		    padding:20px 0;
 		    margin:auto;
+		}
+}
+
+@media (min-width: 2000px) {
+		.pageitem, nav{
+		    width:60%;
+				margin-left: 20%;
+		}
+		.flex {
+			width: 1300px;
+			margin-left: 10%;
 		}
 }
 
