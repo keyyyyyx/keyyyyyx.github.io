@@ -146,12 +146,12 @@ ul {
 		.section {
 		    width:90%;
 		    border-top:1px solid #777;
-		    padding:0 0;
+		    padding:10px 0;
 		    margin:auto;
 		}
 		.section-noline {
 		    width:90%;
-		    padding:0 0;
+		    padding:10px 0;
 		    margin:auto;
 		}
 }
